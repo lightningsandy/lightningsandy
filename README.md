@@ -2,7 +2,7 @@
 
 ## I'm a Full stack web developer | GCP developer
  > currently developing a book website
-#### check out my UI works in dribbble => [Dribbble][dribbble]
+#### check out my UI works on dribbble => [Dribbble][dribbble]
  
 
 
