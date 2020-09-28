@@ -1,7 +1,7 @@
 ### Hey, I'm Santhosh Vengi - Cofounder [Parasite][website] 
 
 ## I'm a Full stack web developer | GCP developer | UI/UX Designer
- > currently developing a book website
+ > currently available for work
 #### check out my UI works on dribbble => [Dribbble][dribbble]
  
 
