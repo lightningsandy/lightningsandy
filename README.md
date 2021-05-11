@@ -1,4 +1,4 @@
-### Hey, I'm Santhosh Vengi - Cofounder [Parasite][website] 
+### Hey, I'm Santhosh Vengi - Cofounder [Void][website] 
 
 ## I'm a Mobile app developer | GCP developer | UI/UX Designer
  > currently available for work
@@ -44,7 +44,7 @@
 
 ---
 
-[website]: https://lightningsandy.github.io/parasite-web/
+[website]: https://lightningsandy.github.io/void/
 [instagram]: https://www.instagram.com/san.hosh/ 
 [linkedin]: https://www.linkedin.com/in/santhosh-srinivasan-80bb9a175
 [dribbble]: https://dribbble.com/lightningsandy
