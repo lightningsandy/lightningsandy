@@ -1,4 +1,4 @@
-### Hey, I'm Santhosh Vengi - Cofounder [Void][website] 
+### Hey, I'm Santhosh srinivasan - Cofounder [Void][website] 
 
 ## I'm a Mobile app developer | UI/UX Designer
 
