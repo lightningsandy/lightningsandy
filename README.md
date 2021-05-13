@@ -32,7 +32,7 @@
 
 ---
 
-[website]: https://lightningsandy.github.io/void/
+[website]: https://www.thevoidcompany.tech/
 [instagram]: https://www.instagram.com/san.hosh/ 
 [linkedin]: https://www.linkedin.com/in/santhosh-srinivasan-80bb9a175
 [dribbble]: https://dribbble.com/lightningsandy
